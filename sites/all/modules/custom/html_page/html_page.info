@@ -1,0 +1,5 @@
+name = HTML Page
+description = This module provide ablity to customize HTML page content type layout.
+files[] = html_page.module
+core = 7.x
+package = Custom
